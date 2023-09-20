@@ -51,6 +51,7 @@ function showData(city) {
   divContainer.appendChild(temp)
   divContainer.appendChild(icon)
   divContainer.appendChild(humidity)
+  
 }
 
 
